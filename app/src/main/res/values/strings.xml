@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnBoardingDemo</string>
+    <string name="email">email</string>
+    <string name="first_name">first name</string>
+</resources>
